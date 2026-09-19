@@ -1,0 +1,10 @@
+brand,car_count,median_price,median_mileage
+Audi,375,10790.0,43157.0
+BMW,194,10507.0,41092.0
+Ford,874,8990.0,36634.5
+Hyundai,106,7744.0,39735.0
+Mercedes-Benz,56,11500.0,40138.0
+Skoda,170,8795.0,44871.0
+Toyota,27,7000.0,47218.0
+Vauxhall,327,7682.0,49648.0
+Volkswagen,467,9995.0,39621.0

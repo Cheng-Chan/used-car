@@ -1,0 +1,13 @@
+source,row_count,column_count,missing_cell_count,exact_duplicate_rows,exact_duplicate_group_rows,duplicate_shared_analytical_rows,unique_models,unique_fuel_types,unique_transmissions,whitespace_issues,year_min,year_max,price_min,price_max,mileage_min,mileage_max,tax_min,tax_max,mpg_min,mpg_max,engine_size_min,engine_size_max,zero_tax_count,zero_mpg_count,zero_engine_size_count,negative_numeric_count,future_year_count,review_flag_count
+audi.csv,10668,9,0,103,185,121,26,3,3,"{""model"": 10668, ""transmission"": 0, ""fuelType"": 0}",1997,2020,1490,145000,1,323000,0.0,580.0,18.9,188.3,0.0,6.3,536,0,57,0,0,18
+bmw.csv,10781,9,0,117,179,137,24,5,3,"{""model"": 10781, ""transmission"": 0, ""fuelType"": 0}",1996,2020,1200,123456,1,214000,0.0,580.0,5.5,470.8,0.0,6.6,340,0,47,0,0,58
+ford.csv,17965,9,0,154,302,182,23,5,3,"{""model"": 17965, ""transmission"": 0, ""fuelType"": 0}",1996,2060,495,54995,1,177644,0.0,580.0,20.8,201.8,0.0,5.0,2153,0,51,0,1,1
+hyundi.csv,4860,9,0,86,147,96,16,4,4,"{""model"": 4860, ""transmission"": 0, ""fuelType"": 0}",2000,2020,1200,92000,1,138000,0.0,555.0,1.1,256.8,0.0,2.9,136,0,47,0,0,7
+merc.csv,13119,9,0,259,425,301,27,4,4,"{""model"": 13115, ""transmission"": 0, ""fuelType"": 0}",1970,2020,650,159999,1,259000,0.0,580.0,1.1,217.3,0.0,6.2,172,0,12,0,0,33
+skoda.csv,6267,9,0,79,155,90,12,4,4,"{""model"": 6267, ""transmission"": 0, ""fuelType"": 0}",2004,2020,995,91874,5,300000,0.0,325.0,30.1,201.8,0.0,2.5,217,0,5,0,0,0
+toyota.csv,6738,9,0,39,74,42,18,4,4,"{""model"": 6738, ""transmission"": 0, ""fuelType"": 0}",1998,2020,850,59995,2,174419,0.0,565.0,2.8,235.0,0.0,4.5,1790,0,6,0,0,11
+vauxhall.csv,13632,9,0,374,509,418,22,5,4,"{""model"": 13632, ""transmission"": 0, ""fuelType"": 0}",1970,2020,450,52489,1,279000,0.0,565.0,25.9,235.4,0.0,3.2,360,0,33,0,0,0
+vw.csv,15157,9,0,264,481,289,27,4,3,"{""model"": 15157, ""transmission"": 0, ""fuelType"": 0}",2000,2020,899,69994,1,212000,0.0,580.0,0.3,188.3,0.0,3.2,590,0,15,0,0,1
+cclass.csv,3899,7,0,102,156,102,1,4,4,"{""model"": 3899, ""transmission"": 0, ""fuelType"": 0}",1991,2020,1290,88995,1,173000,,,,,0.0,6.2,0,0,1,0,0,0
+focus.csv,5454,7,0,696,869,696,1,2,3,"{""model"": 5454, ""transmission"": 0, ""fuelType"": 0}",2002,2020,495,54995,1,177644,,,,,0.0,2.5,0,0,12,0,0,0
+canonical_candidate_combined,99187,10,0,1475,2457,1676,195,5,4,"{""model"": 0, ""transmission"": 0, ""fuel_type"": 0}",1970,2060,450,159999,1,323000,0.0,580.0,0.3,470.8,0.0,6.6,6294,0,273,0,1,129

@@ -1,0 +1,4 @@
+fuel_type,car_count,average_price,median_price,minimum_price,maximum_price,category_present
+Petrol,54927,14775.196406139057,12000.0,450,159999,True
+Diesel,40928,19339.48851641908,17097.0,675,123456,True
+Hybrid,3078,19289.586094866798,18298.0,2495,74226,True

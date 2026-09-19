@@ -1,0 +1,11 @@
+source_file,brand,rows_before,rows_rejected,duplicate_rows_identified,duplicate_rows_removed,rows_after,reconciliation_difference,reconciliation_status,numeric_conversion_failures
+audi.csv,Audi,10668,0,103,0,10668,0,balanced,0
+bmw.csv,BMW,10781,0,117,0,10781,0,balanced,0
+ford.csv,Ford,17965,1,154,0,17964,0,balanced,0
+hyundi.csv,Hyundai,4860,0,86,0,4860,0,balanced,0
+merc.csv,Mercedes-Benz,13119,0,259,0,13119,0,balanced,0
+skoda.csv,Skoda,6267,0,79,0,6267,0,balanced,0
+toyota.csv,Toyota,6738,0,39,0,6738,0,balanced,0
+vauxhall.csv,Vauxhall,13632,0,374,0,13632,0,balanced,0
+vw.csv,Volkswagen,15157,0,264,0,15157,0,balanced,0
+canonical_combined,multiple,99187,1,1475,0,99186,0,balanced,0
